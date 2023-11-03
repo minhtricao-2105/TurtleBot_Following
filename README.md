@@ -11,19 +11,8 @@ Challenges faced, such as intermittent ArUco marker detection and potential coll
 
 ## Contributors:
 The contributors in this project are:
-  1.  Minh Tri Cao - Student ID Number: 14231702:
-    *  Creating world file.
-    *  Control the guider.
-    *  Apply P Controller for the Follower.
-    *  Testing algorithm in the acutal TurtleBot.
-    *  Individual contribution: 50%.
-      
-  3.  Anh Tung Nguyen - Student ID Number: 14072286:
-    *  Creating launch file.
-    *  Control the follower.
-    *  Apply Line of best fit Approach for the Follower.
-    *  Testing algorithm in the acutal TurtleBot.
-    *  Individual contribution: 50%.
+1. Minh Tri Cao - Email: caominhtri21052001@gmail.com
+2. Anh Tung Nguyen - Email: anhtungnguyen1809@gmail.com
 
 ## Requirement:
 ### Software System:

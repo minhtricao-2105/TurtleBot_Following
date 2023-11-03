@@ -14,6 +14,10 @@ The contributors in this project are:
 1. Minh Tri Cao - Email: caominhtri21052001@gmail.com
 2. Anh Tung Nguyen - Email: anhtungnguyen1809@gmail.com
 
+## Media:
+1. Our System Demonstration could be found in here: https://www.youtube.com/watch?v=XBBjlT8dtWM
+2. Our Presentation of this project could be found in here: https://www.youtube.com/watch?v=3XNxY_df0QU
+
 ## Requirement:
 ### Software System:
 *  Ubuntu 20.04

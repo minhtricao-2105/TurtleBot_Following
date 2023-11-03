@@ -1,0 +1,8 @@
+prefix=/home/minhtricao/git/RoboSensor/Sensor/turtlebot3_double/build/devel
+
+Name: turtlebot3_double
+Description: Description of turtlebot3_double
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

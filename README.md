@@ -3,11 +3,17 @@
 ## Description:
 In this innovative project, we aim to create an autonomous system where a TurtleBot, termed as the "follower," uses vision-based techniques to tail another TurtleBot, known as the "guider." Harnessing the capabilities of the OpenCV library, the follower detects ArUco markers strategically placed on the guider. These visual cues allow the follower to determine the position and orientation of the guider robot in real-time.
 
-			<img height="400" alt="Universal Robots A/S" src="Media/RealRobot.jpeg">
+<p align="center">
+  <img height="300" alt="Universal Robots A/S" src="Media/RealRobot.jpeg">
+</p>
 
 Using advanced control algorithms, the follower bot not only keeps track of the guider's location but also adjusts its movement patterns to maintain a consistent distance and alignment with it. If the OpenCV's default capabilities fall short in any aspect, supplementary control techniques are integrated, optimizing the bot's tracking mechanism.
 
 Furthermore, the project environment is simulated within Gazebo, resembling a room setting with furniture, to mirror real-world conditions. A key feature implemented is the ability to control the guider TurtleBot using both a keyboard and an Xbox joystick. This dual-control mechanism ensures flexibility in testing and fine-tuning the follower's responses.
+
+<p align="center">
+  <img height="300" alt="Universal Robots A/S" src="Media/Simulation.png">
+</p>
 
 Challenges faced, such as intermittent ArUco marker detection and potential collision scenarios, have been addressed by enhancing detection techniques and implementing obstacle avoidance measures. The project serves as a testament to the application of computer vision and robotics control in creating synchronized and autonomous multi-robot systems. As we continue refining our algorithms and strategies, we anticipate achieving seamless tandem movement between the guider and follower TurtleBots, both in simulation and real-world scenarios.
 

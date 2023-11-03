@@ -3,7 +3,7 @@
 ## Description:
 In this innovative project, we aim to create an autonomous system where a TurtleBot, termed as the "follower," uses vision-based techniques to tail another TurtleBot, known as the "guider." Harnessing the capabilities of the OpenCV library, the follower detects ArUco markers strategically placed on the guider. These visual cues allow the follower to determine the position and orientation of the guider robot in real-time.
 
-[<img height="60" alt="Universal Robots A/S" src="Media/RealRobot.jpeg">]
+<img height="200" alt="Universal Robots A/S" src="Media/RealRobot.jpeg">
 
 Using advanced control algorithms, the follower bot not only keeps track of the guider's location but also adjusts its movement patterns to maintain a consistent distance and alignment with it. If the OpenCV's default capabilities fall short in any aspect, supplementary control techniques are integrated, optimizing the bot's tracking mechanism.
 
